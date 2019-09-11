@@ -3,7 +3,8 @@
     width: 90%;
   }
   
-  #social {
+  #social.absolute {
+    width: auto;
     
   }
 }
